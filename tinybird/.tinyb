@@ -1,0 +1,14 @@
+{
+    "host": "https://api.europe-west2.gcp.tinybird.co",
+    "id": "5b54193e-b927-4bf4-8f78-e9ccdeddab53",
+    "name": "linkly",
+    "scope": "user",
+    "token": "p.eyJ1IjogIjViNTQxOTNlLWI5MjctNGJmNC04Zjc4LWU5Y2NkZWRkYWI1MyIsICJpZCI6ICI2YjcwMGMyMS0yNTFjLTQ4MGItYTYxOS0zZTFiOTMyODcwNzMiLCAiaG9zdCI6ICJnY3AtZXVyb3BlLXdlc3QyIn0.Q0JC4zH0HjajdDjqJXotgBDX5yp9yh96uk_p2rrUUxQ",
+    "tokens": {
+        "https://api.europe-west2.gcp.tinybird.co": "p.eyJ1IjogIjViNTQxOTNlLWI5MjctNGJmNC04Zjc4LWU5Y2NkZWRkYWI1MyIsICJpZCI6ICI2YjcwMGMyMS0yNTFjLTQ4MGItYTYxOS0zZTFiOTMyODcwNzMiLCAiaG9zdCI6ICJnY3AtZXVyb3BlLXdlc3QyIn0.Q0JC4zH0HjajdDjqJXotgBDX5yp9yh96uk_p2rrUUxQ"
+    },
+    "user_email": "nirbhaykck@gmail.com",
+    "user_id": "cd47f603-61ab-4466-8491-f4dc1fa70698",
+    "user_token": "p.eyJ1IjogImNkNDdmNjAzLTYxYWItNDQ2Ni04NDkxLWY0ZGMxZmE3MDY5OCIsICJpZCI6ICJmMzA5N2Q1YS01NTVkLTQ5NDktOThmMC1lMTZmZTVkNjVkNmYiLCAiaG9zdCI6ICJnY3AtZXVyb3BlLXdlc3QyIn0.W_wB10eyTpGEYpMGFiV_HYXxQk4-e889H0Jo7O6-CGM",
+    "version": "0.0.1.dev304"
+}
